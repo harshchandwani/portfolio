@@ -1,7 +1,5 @@
 # PortFolio Website
 
-That's "First portfolio" in French ✨
-
 ## Screenshot 📸
 
 ![Harsh Chandwani portfolio screenshot](./assets/img/seo-img.png)
