@@ -57,13 +57,13 @@ const tl = gsap.timeline({
 
 tl.to('.text', {
     y: "0%",
-    duration: 1,
+    duration: 0.5,
     stagger: .4
 })
 tl.from(".services-heading h2", {
     y: 300,
     opacity: 0,
-    duration: 1
+    duration: 0.5
 }, "-=1")
 
 tl.fromTo('.landing-text h1', {opacity: 0}, {opacity: 1, duration:.5, stagger: .5});
